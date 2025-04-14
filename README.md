@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @guadallupi
+- 👋 Hi, I’m Guadallupi Bezerra
 - 👀 I’m interested in: being a frontend developer 
-- 🌱 I’m currently learning: JavaScript, HTML, CSS, ReactJS
+- 🌱 I’m currently learning: JavaScript, HTML, CSS
 - 📫 How to reach me: guadallupi@hotmail.com
 - 😄 Pronouns: she, her
 - ⚡ Fun fact: French is my seconde language
